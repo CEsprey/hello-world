@@ -1,2 +1,5 @@
 # hello-world
-First git-hub repository - Tutorial
+git-hub repository tutorial.
+
+A common mistake that people make when trying to design something completely 
+foolproof is to underestimate the ingenuity of complete fools.
